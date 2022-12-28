@@ -1,1 +1,1 @@
-### This is a personal practice using SQL.
+### Personal practice using SQL.
